@@ -1,0 +1,20 @@
+body {
+  font-family: arial;
+}
+
+.main-container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.title-container {
+  flex: auto;
+}
+
+.map-container {
+  flex: auto;
+}
